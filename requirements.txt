@@ -4,4 +4,6 @@ numpy
 scikit-learn
 tensorflow
 joblib
-streamlit-aggrid
+matplotlib
+seaborn
+plotly
