@@ -18,12 +18,6 @@ This project demonstrates the application of **Hybrid AI** architectures to cybe
 * **Traffic Simulation:** Custom scripts (`scripts/simulate_network_traffic.py`) to generate benign and malicious traffic patterns for testing.
 * **PCAP Analysis:** Raw packet processing pipeline using `scapy` and `pandas`.
 
-## 📊 Performance Visualization
-
-The system outputs confusion matrices and real-time alerts upon detecting signatures of known attacks (DoS, Probe, U2R).
-
-*(You can add a screenshot of your Streamlit dashboard here if you have one)*
-
 ## 🛠 Tech Stack
 
 * **Core:** Python, NumPy, Pandas
